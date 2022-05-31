@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emindlg/sercair-project/static/css/main.7a1718d5.css",
-    "main.js": "/emindlg/sercair-project/static/js/main.b923f04f.js",
-    "static/js/787.463a6d36.chunk.js": "/emindlg/sercair-project/static/js/787.463a6d36.chunk.js",
-    "index.html": "/emindlg/sercair-project/index.html",
-    "main.7a1718d5.css.map": "/emindlg/sercair-project/static/css/main.7a1718d5.css.map",
-    "main.b923f04f.js.map": "/emindlg/sercair-project/static/js/main.b923f04f.js.map",
-    "787.463a6d36.chunk.js.map": "/emindlg/sercair-project/static/js/787.463a6d36.chunk.js.map"
+    "main.css": "/sercair-project/static/css/main.7a1718d5.css",
+    "main.js": "/sercair-project/static/js/main.35669049.js",
+    "static/js/787.463a6d36.chunk.js": "/sercair-project/static/js/787.463a6d36.chunk.js",
+    "index.html": "/sercair-project/index.html",
+    "main.7a1718d5.css.map": "/sercair-project/static/css/main.7a1718d5.css.map",
+    "main.35669049.js.map": "/sercair-project/static/js/main.35669049.js.map",
+    "787.463a6d36.chunk.js.map": "/sercair-project/static/js/787.463a6d36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a1718d5.css",
-    "static/js/main.b923f04f.js"
+    "static/js/main.35669049.js"
   ]
 }
